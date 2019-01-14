@@ -1,4 +1,3 @@
-CONTRIBUTOR CODE
 A Code of Conduct for Open Source Projects
 Open Source has always been a foundation of the Internet, and with the advent of social open source networks this is more true than ever. But free, libre, and open source projects suffer from a startling lack of diversity, with dramatically low representation by women, people of color, and other marginalized populations.
 
@@ -24,8 +23,8 @@ We recommend that you add the Markdown or text version of the Contributor Covena
 Thanks to Simon Vansintjan there is an automated way to add Contributor Covenant to your project. Assuming that you have Node.js installed, simply run the following two commands from your project folder:
 
 npm install -g covgen
-covgen <your a>
-If you have npm 5.x installed you can run npx covgen <your a> instead of installing globally.
+covgen <your_email_address>
+If you have npm 5.x installed you can run npx covgen <your_email_address> instead of installing globally.
 
 For subsequent projects, simply repeat the second command.
 
